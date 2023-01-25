@@ -1,1 +1,1 @@
-A collection of interesting space fishes.
+A collection of visual experiments. 
