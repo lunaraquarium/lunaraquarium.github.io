@@ -22,7 +22,7 @@ Sketches
 &nbsp;
 
 
-[Arcturus](arcturus.md)
+Arcturus
 
 
 &nbsp;
