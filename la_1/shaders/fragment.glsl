@@ -1,6 +1,6 @@
 // And so it begins again ... this time several light-years closer to home
 // The following code is under the Ultimate Plagiarism Defense
-// "quality so crap, it is not worth plagiarizing"
+// "quality so crap, it's not worth plagiarizing"
 // Feel free to use any part of the code, bonus points for crediting "Lunar Aquarium" or "KM"
 // -KM, 1/28/23
 
