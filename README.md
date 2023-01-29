@@ -31,7 +31,7 @@ Sketches
 &nbsp;
 
 
-About Me
+[About Me](whoami.md)
 
 
 
