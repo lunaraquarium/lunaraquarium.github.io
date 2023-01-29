@@ -13,7 +13,7 @@ A sketchbook of visualizations and a record of my adventures in the land of the 
 &nbsp;
 
 
-Sketches
+[Sketches](sketches.md)
 
 
 &nbsp;
