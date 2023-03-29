@@ -3,6 +3,10 @@ title: Sketches
 ---
 &nbsp;
 
+* Entry 5 -> [Some Phases](/la_5/bundle/index.html)
+  * [About](/la_5/about.md)
+  * [Shaders](https://github.com/lunaraquarium/lunaraquarium.github.io/tree/main/la_5/shaders)
+
 * Entry 4 -> [Traffic Sines](/la_4/bundle/index.html)
   * [About](/la_4/about.md)
   * [Shaders](https://github.com/lunaraquarium/lunaraquarium.github.io/tree/main/la_4/shaders)
