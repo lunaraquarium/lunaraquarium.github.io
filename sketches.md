@@ -3,6 +3,10 @@ title: Sketches
 ---
 &nbsp;
 
+* Entry 6 -> [The Hive](/la_6/bundle/index.html)
+  * [About](/la_6/about.md)
+  * [Shaders](https://github.com/lunaraquarium/lunaraquarium.github.io/tree/main/la_6/shaders)
+  
 * Entry 5 -> [Some Phases](/la_5/bundle/index.html)
   * [About](/la_5/about.md)
   * [Shaders](https://github.com/lunaraquarium/lunaraquarium.github.io/tree/main/la_5/shaders)
