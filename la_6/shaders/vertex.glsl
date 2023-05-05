@@ -1,3 +1,11 @@
+//A quick vertex shader that controls particle movement and
+//calculates a parameter related to the distance of each particle to the origin,
+//accomplishing in less than 20 lines a task that I could only dream of in p5js.
+//May the 4th be with you!
+//-KM, 5/4/23
+
+
+
 varying float vZ;
 varying float vDistNorm;
 uniform float uMt;
