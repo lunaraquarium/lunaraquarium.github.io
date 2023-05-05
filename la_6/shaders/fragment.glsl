@@ -1,3 +1,9 @@
+//Here, color is controlled in two ways:
+//1. using the distance from the world origin (0,0,0).
+//2. using the uv of each point within each vertex (gl_PointCoord)
+//Add some sines and the result is something simultaneously mechanical and dreamy.
+// - KM, 5/4/23
+
 uniform float uTime;
 uniform float uMt;
 varying float vDistNorm;
