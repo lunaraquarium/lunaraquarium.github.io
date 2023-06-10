@@ -3,6 +3,10 @@ title: Sketches
 ---
 &nbsp;
 
+* Entry 7 -> [Ex Nihilo, Aves](/la_7/bundle/index.html)
+  * [About](/la_7/about.md)
+  * [Shaders](https://github.com/lunaraquarium/lunaraquarium.github.io/tree/main/la_7/shaders)
+  
 * Entry 6 -> [The Hive](/la_6/bundle/index.html)
   * [About](/la_6/about.md)
   * [Shaders](https://github.com/lunaraquarium/lunaraquarium.github.io/tree/main/la_6/shaders)
