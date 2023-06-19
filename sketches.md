@@ -3,6 +3,10 @@ title: Sketches
 ---
 &nbsp;
 
+* Entry 8 -> [Mobilis In Mobili](/la_8/bundle/index.html)
+  * [About](/la_8/about.md)
+  * [Shaders](https://github.com/lunaraquarium/lunaraquarium.github.io/tree/main/la_8/shaders)
+
 * Entry 7 -> [Ex Nihilo, Aves](/la_7/bundle/index.html)
   * [About](/la_7/about.md)
   * [Shaders](https://github.com/lunaraquarium/lunaraquarium.github.io/tree/main/la_7/shaders)
