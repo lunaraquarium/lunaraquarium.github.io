@@ -6,7 +6,7 @@ If my current journey is crossing the Sahara, Arcturus was my journey to Tangier
 
 ### UPDATE (2/12/24): The Lunar Aquarium's Back on p5.js!
 
-Over these last few years, p5.js's support for shaders has dramatically increased, to the point which it may be easier to setup relatively complex 2D shader simulations as compared to three.js. The next few sketches will test this hypothesis!
+Over these last few years, p5.js's support for shaders has dramatically increased, to the point at which it may be easier to setup relatively complex 2D shader simulations as compared to three.js. The next few sketches will test this hypothesis!
 
 ### (Old post - still applies to non-shader pixel manipulation) p5.js: Why I liked it + Why I stopped using it (for now)
 
