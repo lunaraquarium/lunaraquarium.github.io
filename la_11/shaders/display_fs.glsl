@@ -1,3 +1,6 @@
+// This sketch doesn't use FBO, but this is included anyways for the lolz
+// KM, 5/15/24
+
 precision mediump float;
 uniform sampler2D uTexture;
 uniform vec3 uResolution;
