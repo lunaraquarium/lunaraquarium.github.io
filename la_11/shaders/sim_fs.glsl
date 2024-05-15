@@ -1,3 +1,9 @@
+// This sketch uses curl noise and a process of ridge-lining to get sinuous, flowing lines
+// It's reminiscent of a now-old HTML5 game that I used to love to play, in which
+// the player controls a waving line amidst a field of evil red dots (sinuousgame.com, hope it still works)
+// KM, 5/14/24
+
+
 precision mediump float;
 uniform sampler2D uTexture; 
 uniform vec3 uResolution;
@@ -6,7 +12,7 @@ uniform bool uClick;
 uniform float uTime;
 uniform float uVel;
 varying vec2 vUv;
-#include "noise_functions.glsl"
+#include "noise_functions.glsl" //can find these function on "lygia.xyz"
 
 
 
