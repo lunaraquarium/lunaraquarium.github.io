@@ -3,6 +3,9 @@ title: Sketches
 ---
 &nbsp;
 
+* Entry 12 -> [A Solution of Cranberries](/la_12/bundle/index.html)
+  * [About](/la_12/about.md)
+
 * Entry 11 -> [Anastomoses](/la_11/bundle/index.html)
   * [About](/la_11/about.md)
   * [Shaders](https://github.com/lunaraquarium/lunaraquarium.github.io/tree/main/la_11/shaders)
