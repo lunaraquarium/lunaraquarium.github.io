@@ -3,7 +3,7 @@ title: Sketches
 ---
 &nbsp;
 
-* Entry 12 -> [A Solution of Cranberries](/la_12/bundle/index.html)
+* Entry 12 -> [A Solution of Cranberries](/la_12/index.html)
   * [About](/la_12/about.md)
 
 * Entry 11 -> [Anastomoses](/la_11/bundle/index.html)
