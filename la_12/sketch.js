@@ -1,3 +1,13 @@
+//Cranberries swimming in a dark solution
+//and occasionally forming some cool blue synapses.
+//Probably a metaphor for life, but more than anything,
+//represents a major Arcturus throwback.
+//Sketch protected by the (revised) ultimate defense against plagiarism:
+//"Quality so crap, it isn't worth plagiarizing"
+//But if you find something interesting here, 
+//bonus points for crediting the Lunar Aquarium!
+//-KM, 9/18/24
+
 let dim = 1000;
 let numParticles = 75;
 let particleParams = {
