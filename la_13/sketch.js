@@ -7,8 +7,8 @@
 //KM, always free of AI - 1/27/25
 let t;
 let params = {};
-let count = 10000.0;
-let zoom = 0.002;
+let count = 5000.0;
+let zoom = 0.003;
 function preload() {
   t = loadShader('vert.glsl', 'frag.glsl');
 }
