@@ -17,7 +17,7 @@ function setup() {
   pixelDensity(1);
   createCanvas(800, 800, WEBGL);
   let gui = new GUI();
-  gui.title("Nodal - KM, 1/26/25");
+  gui.title("Nodal - KM, 1/27/25");
 }
 
 function draw() {
