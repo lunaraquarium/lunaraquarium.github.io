@@ -3,6 +3,9 @@ title: Sketches
 ---
 &nbsp;
 
+* Entry 13 -> [Nodal](/la_13/nodal.html)
+  * [About](/la_13/about.md)
+   
 * Entry 12 -> [A Solution of Cranberries](/la_12/index.html)
   * [About](/la_12/about.md)
 
