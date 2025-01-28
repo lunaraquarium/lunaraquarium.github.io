@@ -2,9 +2,6 @@
 //In a universe of motion,
 //the "motionless" can be interesting,
 //if approached with an open mind.
-//Each "particle" is defined as a small square,
-//2 triangles from 6 vertices each,
-//making 60000 vertices.
 //Mix some sines and cosines, and the result
 //is reminiscent of bioluminescent algae
 //trailing beyond the wake of a redoubtable vessel.
